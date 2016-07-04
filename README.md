@@ -1,6 +1,6 @@
 # neurosci-saccade-detection
 Example Matlab code for extracting useful eye position information from gaze 
-coordinate data
+coordinate data.
 
 ## About
 The repository contains a Matlab script for preprocessing raw gaze coordinate 
@@ -11,4 +11,4 @@ and contains gaze position data from 120 separate trials of a behavioral task.
 During the task, the observer was instructed to maintain a fixed eye position; 
 large deviations from stable fixation are notable on certain trials - the
 positional information and velocity/acceleration profiles change abruptly in 
-the traces. An example saccade trial is illustrated in an included plot.
+the eye traces. An example saccade trial is illustrated in the included .pdf.
