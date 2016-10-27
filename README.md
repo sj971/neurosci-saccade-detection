@@ -11,7 +11,9 @@ and contains gaze position data from 120 separate trials of a behavioral task.
 During the task, the observer was instructed to maintain a fixed eye position; 
 large deviations from stable fixation are notable on certain trials - the
 positional information and velocity/acceleration profiles change abruptly in 
-the traces. An example saccade trial is illustrated below, with associated 
+the traces. 
+
+An example saccade trial is illustrated below, with associated 
 rule-of-thumb thresholds indicated by the horizontal dashed lines.
 
 ![Saccade detection](sample_saccade.png)
