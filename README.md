@@ -13,7 +13,7 @@ large deviations from stable fixation are notable on certain trials - the
 positional information and velocity/acceleration profiles change abruptly in 
 the traces. 
 
-An example saccade trial is illustrated below, with associated 
-rule-of-thumb thresholds indicated by the horizontal dashed lines.
+An example saccade trial is illustrated below (rule-of-thumb thresholds are
+indicated by the horizontal dashed lines).
 
 ![Saccade detection](sample_saccade.png)
