@@ -14,4 +14,4 @@ positional information and velocity/acceleration profiles change abruptly in
 the traces. An example saccade trial is illustrated below, with associated 
 rule-of-thumb thresholds indicated by the horizontal dashed lines.
 
-![Saccade detection](https://www.github.com/sj971/neurosci-saccade-detection/sample_saccade.png)
+![Saccade detection](sample_saccade.png)
