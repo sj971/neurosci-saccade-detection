@@ -19,9 +19,7 @@ applying velocity and acceleration thresholds to the traces.
 
 During the task, the observer was instructed to maintain a fixed eye position; yet, **large 
 deviations from stable fixation** are notable on certain trials - the gaze position and 
-velocity/acceleration profiles change abruptly.
-
-An example saccade trial is illustrated below (threshold cut-offs are 
-indicated by dashed red lines).
+velocity/acceleration profiles change abruptly. An example saccade trial is illustrated 
+below (threshold cut-offs are indicated by dashed red lines).
 
 ![Saccade detection](sample_saccade.png)
