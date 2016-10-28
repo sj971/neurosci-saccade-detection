@@ -22,4 +22,10 @@ yet, **large deviations from stable fixation** are notable on certain trials - t
 and velocity/acceleration profiles change abruptly. An example saccade trial is illustrated 
 below (threshold cut-offs are indicated by dashed red lines).
 
+### Further details
+
+Details of the behavioral experiments and control eyetracking recordings can be found in 
+Chapter 2 of my PhD thesis here:                              
+http://sj971.github.io/docs/thesis_sjackson.pdf
+
 ![Saccade detection](sample_saccade.png)
