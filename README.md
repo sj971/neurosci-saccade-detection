@@ -15,13 +15,13 @@ contains gaze position data from 120 separate trials of a behavioral task. A num
 of **initial preprocessing steps** are first taken e.g., application of a median sliding 
 window across the traces to remove very high frequency noisy fluctuations, removal of
 missing data or 'blink' samples. Instances of saccade trials are then detected by 
-applying **velocity and acceleration thresholds** to the traces. 
+applying velocity and acceleration thresholds to the traces. 
 
-During the task, the observer was instructed to maintain a fixed eye position; yet, large 
-deviations from stable fixation are notable on certain trials - the gaze position and 
+During the task, the observer was instructed to maintain a fixed eye position; yet, **large 
+deviations from stable fixation** are notable on certain trials - the gaze position and 
 velocity/acceleration profiles change abruptly.
 
-An example saccade trial is illustrated below (velocity/acceleration thresholds are 
-indicated by the dashed red lines).
+An example saccade trial is illustrated below (threshold cut-offs are 
+indicated by dashed red lines).
 
 ![Saccade detection](sample_saccade.png)
