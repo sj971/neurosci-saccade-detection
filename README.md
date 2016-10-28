@@ -10,10 +10,6 @@ in which an observer was not attending to a given experimental task; the same
 routine can be modified to study how task or stimulus parameters effect
 gaze position or eye movement dynamics.
 
-During the task, the observer was instructed to maintain a fixed eye position; 
-large deviations from stable fixation are notable on certain trials - the
-positional information and velocity/acceleration profiles change abruptly.
-
 The raw gaze coordinate data (500Hz) is loaded from an associated .mat file, and 
 contains gaze position data from 120 separate trials of a behavioral task. During the 
 task, the observer was instructed to maintain a fixed eye position; large deviations 
